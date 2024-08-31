@@ -1,0 +1,35 @@
+ <div class="central">
+        <section id="section_init">
+            <aside id="presentation">
+            <h1>Francisco Vanegas Ibarguen</h1>
+            <h1>Ingeniero de sistemas</h1>
+            <h1>Universidad del pacifico</h1>
+        </aside>
+            <img src="/static/img/libro1.webp" alt="">
+        </section>
+        <section id="section_education">
+            <h2>Institución educativa Jose Ramon Bejarano</h2>
+            <h2>Universidad del Pacifico</h2>
+        </section>
+        <section id="section_skill">
+            <ol>
+                <li>Pyhton</li>
+                <li>Html</li>
+                <li>Css</li>
+                <li>Mysl</li>
+                <li>Django</li>
+            </ol>
+        </section>
+        <section id="section_experience">
+            <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Neque explicabo quibusdam incidunt! Amet cum nihil, aliquid eligendi maiores repellendus ducimus, itaque cupiditate obcaecati dolorum soluta magni pariatur! Vel, ratione debitis.
+            </p>
+        </section>
+        <section id="section_contact">
+            <i><img src="/static/img/facebook.png" alt="">Facebook</i>
+            <i><img src="/static/img/instagram.png"" alt="">Instagram</i>
+            <i><img src="/static/img/gorjeo.png"" alt="">X</i>
+            <i><img src="/static/img/gmail.png"" alt="">Gmail</i>
+    
+        </section>
+    </div>

@@ -1,0 +1,23 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="60">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="{% static 'global.css' %}">  
+</head>
+<body>
+
+{% block content %}
+    <div id="presentation">
+        <h1>Bienvenido a mi portafolio</h1>
+            <p>En el cual encontraras la información relacionada
+            con migo y mis conocimientos. Espero sea interesante para ti
+            y puedas contratarme</>
+    </div>
+    <img class="emoji" src="/static/img/icons8-me-gusta.gif" width="100" height="100" alt="">
+    <a class="router" href="/personal_info">Exploremos juntos➡</a>
+{% endblock %}
+
+</body>
+</html>
